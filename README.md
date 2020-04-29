@@ -39,7 +39,7 @@ This is only for assembly with RS304MD or RS303MR Servo, M5Stack and M5StickV. I
 - M5Stack and M5StickV if you need.
 
 ### Others
-- "LegUnder/Fott" is recomended to print by TPU.
+- "LegUnder/Foot" is recomended to print by TPU.
 
 ## Author's blog
 https://prototype09.com/
