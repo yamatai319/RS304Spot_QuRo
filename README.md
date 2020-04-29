@@ -46,4 +46,5 @@ https://prototype09.com/
 
 ## Licence
 Copyright (c) 2020 Yamatai
+
 [Released under the MIT license](https://opensource.org/licenses/mit-license.php)
