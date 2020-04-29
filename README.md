@@ -1,5 +1,5 @@
 # RS304Spot_QuRo
-Spot-like Robot by using Futaba RS304MD or RS303MR Servo. Quro named by Quadruped Robot.
+Spot-like Robot by using Futaba RS304MD or RS303MR Servo. QuRo named by Quadruped Robot.
 This is only for assembly with RS304MD or RS303MR Servo, M5Stack and M5StickV. If you need to mount sensors or batteries, you have to modify STEP files.
 
 ## Image
