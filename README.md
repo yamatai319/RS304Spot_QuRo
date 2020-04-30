@@ -36,6 +36,7 @@ This is only for assembly with RS304MD or RS303MR Servo, M5Stack and M5StickV. I
 - x12 M2 6mm Flat Head Screw and Nut (To fix Front/Back Main to there Base)
 - x96 M2 4mm Flat Head Screw (To fix servo horn)
 - x102(maybe) M2 8mm or 6mm Flat Head Tapping Screw
+- x8 <Φ6.4mm Magnet (For easy detachable Body Cover. You can get it at 100 yen shop.)
 - M5Stack and M5StickV if you need.
 
 ### Others
